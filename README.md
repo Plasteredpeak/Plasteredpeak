@@ -75,7 +75,7 @@
 
 
 ## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://twitter.com/plasteredpeak" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -95,7 +95,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plasteredpeak&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plasteredpeak&show_icons=true&count_private=true&hide_border=true" align="center" style="background:black" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plasteredpeak&hide_border=true&layout=compact" align="center" />  
 </div> 
