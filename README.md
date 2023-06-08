@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
+</div>
   
 
 ### <div align="center">I'm a developer who is trying to find his way in this technological era.</div>  
