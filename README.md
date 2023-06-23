@@ -6,10 +6,10 @@
 ### <div align="center">I'm a developer who is trying to find his way in this technological era.</div>  
   
 
-- 🔭 I’m currently working on my Final Year Project  
+- 🔭 I’m currently working on a mobile app 
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently learning NodeJS
   
 
 - ❓ Ask me about anything related to JAVA and React-Native  
