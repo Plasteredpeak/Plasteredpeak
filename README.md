@@ -6,13 +6,13 @@
 ### <div align="center">I'm a developer who is trying to find his way in this technological era.</div>  
   
 
-- 🔭 I’m currently working at cowlar design studios
+- 🔭 I’m currently doing masters at NCI
   
 
 - 🌱 I’m currently learning ThreeJS
   
 
-- ❓ Ask me about anything related to FULL STACK 
+- ❓ Ask me about anything related to Full Stack
   
 
 - ⚡ Fun fact: I used to hate VS code  
