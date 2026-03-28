@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:007C91&height=260&section=header&text=Ali%20Hamza&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20AI%2FML&descAlign=50&descAlignY=60&animation=fadeIn" />
 </div>
-  
 
-### <div align="center">I'm a developer who is trying to find his way in this technological era.</div>  
-  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+modern+products;Cloud+%2F+DevOps+%2F+AI%2FML+enthusiast;Always+learning%2C+always+shipping" />
+</div>
 
-- 🔭 I’m currently doing masters at NCI
-  
+---
+<br/>  
 
-- 🌱 I’m currently learning ThreeJS
-  
+## 🧊 About Me
 
-- ❓ Ask me about anything related to Full Stack
-  
+**Quick Facts**
+- 🎓 Masters student at NCI  
+- 🌐 Portfolio: **alihamzaportfolio.me**  
+- 💬 Ask me about **React, Node, Cloud, AI/ML**  
+- ⚡ Fun: I used to hate VS Code
 
-- ⚡ Fun fact: I used to hate VS code  
-  
 
 <br/>  
 
@@ -109,12 +109,17 @@
 
 <br/>  
 
+<br/>  
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=plasteredpeak&&style=flat-square" align="center" />
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=plasteredpeak&style=for-the-badge&color=00C2A8)](https://github.com/Plasteredpeak)
+[![GitHub followers](https://img.shields.io/github/followers/plasteredpeak?style=for-the-badge&color=009FB7)](https://github.com/Plasteredpeak)
+[![GitHub stars](https://img.shields.io/github/stars/plasteredpeak?style=for-the-badge&color=00B8A9)](https://github.com/Plasteredpeak)
 </div>  
   
 
-<br/>  
 
 
 <br />
